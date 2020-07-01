@@ -1,16 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8" />
-        <link rel="stylesheet" href="css/stule.css">
-</head>
-<body>
-    <header>
-        <div class="header-bg">
-            <img src="лог0.png" width="1000" height="120">
-        </div>
-    </header>
-    <h1>
         Материал для ознакомления
     </h1>
     Dungeons & Dragons (дословно — «Подземелья и драконы», сокращается до D&D или DnD) — настольная ролевая игра в стиле фэнтези, выпускаемая компанией Wizards of the Coast. Это не только первая, но и самая популярная система ролевых игр в мире, пережившая много переизданий и изменений.
