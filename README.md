@@ -2,8 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8" />
-    <title> Dungeons & Dragons </title>
-    <link rel="stylesheet" href="css/stule.css">
+        <link rel="stylesheet" href="css/stule.css">
 </head>
 <body>
     <header>
